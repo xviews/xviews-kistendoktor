@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/xviews/xviews-kistendoktor/releases/latest/download/XviewsKistendoktor.exe"><img src="https://img.shields.io/github/v/release/xviews/xviews-kistendoktor?label=Download%20XviewsKistendoktor.exe&style=for-the-badge&logo=windows&logoColor=white&color=2ea44f" alt="Download XviewsKistendoktor.exe"></a>
+  <a href="https://github.com/xviews/xviews-kistendoktor/releases/latest/download/XviewsKistendoktor.exe"><img src="https://img.shields.io/github/v/release/xviews/xviews-kistendoktor?label=Download%20XviewsKistendoktor.exe&style=for-the-badge&logo=windows&logoColor=white&color=2ea44f&cacheSeconds=3600" alt="Download XviewsKistendoktor.exe"></a>
 </p>
 
 <p align="center">
