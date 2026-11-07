@@ -126,6 +126,14 @@ Werbekacheln im Home-Menü, Firmware-Updates, die den Root wieder entfernen, ein
     <td align="center">Fehlersuche</td>
   </tr>
   <tr>
+    <td width="50%"><img src="bilder/14-farben.png" alt="Farben: Helligkeit, Farbstärke und Reaktion je Streifen, mit Farb-Assistent"></td>
+    <td width="50%"><img src="bilder/15-verhalten.png" alt="Verhalten: LEDs mit dem Fernseher ausschalten, abends dunkler, Bildaufnahme"></td>
+  </tr>
+  <tr>
+    <td align="center">Farben</td>
+    <td align="center">Verhalten</td>
+  </tr>
+  <tr>
     <td width="50%"><img src="bilder/11-testbilder.png" alt="Testbilder für das Ambilight"></td>
     <td width="50%"><img src="bilder/8-info.png" alt="Info-Seite mit Updates"></td>
   </tr>
